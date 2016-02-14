@@ -1,0 +1,1 @@
+This is a simple lightweight java based solution to authenticates users across multiple sites or domains. It is based on idea of passing session id over https. You can use it for sites with low to medium security requirements. If you have any highly sensitive and secure information on your site then consider using alternatives like JBOSS SSO, JOSSO or PingFederate.
